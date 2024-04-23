@@ -1,0 +1,3 @@
+D:/Facultate/Semestrul 2/Object Oriented Programming/pregatire test2/old buildings/cmake-build-debug/CMakeFiles/old_buildings.dir
+D:/Facultate/Semestrul 2/Object Oriented Programming/pregatire test2/old buildings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/Semestrul 2/Object Oriented Programming/pregatire test2/old buildings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
